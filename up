@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="señal colombia" tvg-name="señal colombia" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-board-icon-image_1455346.jpg| señal colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
+
+#EXTINF:-1 tvg-id=city tv
+https://citytv.cachefly.net/citytv1/citytv1/chunks.m3u8
+
+#EXTINF:-1 tvg-id=cali tv
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w411275101.m3u8
+
+#EXTINF:-1 tvg-id=cartoon network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-480p.m3u8
